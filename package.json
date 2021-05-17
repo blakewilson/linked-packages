@@ -1,0 +1,21 @@
+{
+  "name": "linked-packages",
+  "version": "1.0.0",
+  "description": "A small script to list all of your globally linked packages",
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "bin": {
+    "linked-packages": "./bin/linked-packages.sh"
+  },
+  "keywords": [
+    "npm",
+    "link"
+  ],
+  "author": "Blake Wilson (https://blake.id)",
+  "license": "MIT"
+}
